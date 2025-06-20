@@ -31,3 +31,6 @@ Social Learning: Collaborative challenges and peer support
 DIY Activity Recommendations: Practical projects based on lesson content
 Skill Application Tracking: Monitor real-world application of concepts
 Community Sharing: Students share their DIY projects and creations
+
+
+contibutors - Atharva,  Mahima, Shravani
