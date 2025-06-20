@@ -33,6 +33,11 @@ Skill Application Tracking: Monitor real-world application of concepts
 Community Sharing: Students share their DIY projects and creations
 
 
+<<<<<<< HEAD
 contibutors - Atharva,  Mahima, Shravani, ankush , atharva jondhale
 
 atharva  jondhale
+=======
+contibutors - Atharva,  Mahima, Shravani, ankush khakale..
+hello
+>>>>>>> 8733110c5536ecd1a13b17572890e28d81118f76
